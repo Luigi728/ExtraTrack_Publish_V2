@@ -1,0 +1,13 @@
+,Variable,Phase,Median (Control),Median (RCP4.5),Median (RCP8.5),KS Test (RCP4.5 - Control),KS Test (RCP8.5 - Control),Bootstrap Test (RCP4.5 - Control),Bootstrap Test (RCP8.5 - Control)
+0,SLP(hPa),All,990.38,989.435,988.05,0.0,0.0,0.014,0.0
+1,SLP(hPa),Tropical,991.48,990.67,989.2,0.0,0.0,0.069,0.0
+2,SLP(hPa),Transitioning,975.095,969.8,971.51,0.0,0.0,0.001,0.002
+3,SLP(hPa),Extratropical,993.61,992.74,991.39,0.004,0.003,0.489,0.005
+0,Lat,All,30.53,32.24,32.66,0.0,0.0,0.0,0.0
+1,Lat,Tropical,26.73,28.59,29.17,0.0,0.0,0.0,0.0
+2,Lat,Transitioning,40.24,41.23,40.76,0.012,0.02,0.004,0.069
+3,Lat,Extratropical,47.75,49.75,49.37,0.0,0.0,0.0,0.0
+0,Lon,All,-54.8,-50.795,-53.85,0.0,0.0,0.0,0.015
+1,Lon,Tropical,-57.91,-54.32,-56.455,0.0,0.0,0.0,0.001
+2,Lon,Transitioning,-50.3,-47.96,-51.04,0.0,0.529,0.007,0.469
+3,Lon,Extratropical,-41.85,-36.24,-37.39,0.0,0.0,0.0,0.0
