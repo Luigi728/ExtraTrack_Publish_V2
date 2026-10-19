@@ -3,12 +3,12 @@
 - Authors: Wing Him (Kinen) Kao, Colin Zarzycki
 - Affiliation: Department of Meteorology and Atmospheric Science, Pennsylvania State University, State College, PA, United States
 - Contact: kinenkao@gmail.com
-- Date of Release: October 18th, 2026
+- Date of Release: October 20th, 2026
 - Version: V2.0.0
 - DOI: 
 
 ## 1. Overview
-This repository contains the raw storm trajectories, processed data and code used in this paper.
+This repository contains the storm trajectories, processed data and code used in this paper.
 
 Raw model output for storm composites and large scale analysis data are available on Penn State data commons: https://doi.org/10.26208/20XR-7S48
 
