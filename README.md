@@ -5,7 +5,7 @@
 - Contact: kinenkao@gmail.com
 - Date of Release: October 20th, 2026
 - Version: V2.0.0
-- DOI: 
+- DOI: 10.5281/zenodo.23485251
 
 ## 1. Overview
 This repository contains the storm trajectories, processed data and code used in this paper.
